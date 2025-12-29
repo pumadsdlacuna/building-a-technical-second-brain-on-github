@@ -19,4 +19,3 @@ Estándares recomendados:
 - Estructura de carpetas (docs/, examples/, assets/)
 - Registro de decisiones (decisions.md)
 - Rúbrica de calidad (scoring)
-
